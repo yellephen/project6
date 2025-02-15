@@ -1,5 +1,9 @@
 # project6
 
+hello copy&paste, my old friend. Maybe I should write this.
+
+--------------------------------------------
+
 I should drink less coffee. VMs are good how they are resizable windows with my desktop behind them. What single note did I want to take again? There's no emoticon for this laugh at myself.
 
 --------------------------------------------
