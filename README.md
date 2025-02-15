@@ -1,5 +1,13 @@
 # project6
 
+It should be a linux executable.
+That is a text editor
+With a file tree
+File > New - I am not a dev.
+I'm sick of restricted environments.
+Rearrange two windows, thunar or whatever it's called on tuesdays on the left and great editor on the right.
+
+---------------------------------------------
 It'll be great but basic. The sparse features I'm looking for are
 
 	- Is a text editor
