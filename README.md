@@ -1,5 +1,9 @@
 # project6
 
+I should drink less coffee. VMs are good how they are resizable windows with my desktop behind them. What single note did I want to take again? There's no emoticon for this laugh at myself.
+
+--------------------------------------------
+
 Cross platform with a GUI and few dependencies. You are dreaming! So linux only. Linux GUI is bananas to me. Best dev may C++ an elf with the right libraries.<br><br>
 Python GUI? There are many python libraries available on pip that do gui. I am getting excited. I should learn about Exegol while I'm there. Python is bad for the environment. A text editor with a scripting language is hilarious. 
 
