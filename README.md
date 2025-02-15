@@ -1,5 +1,9 @@
 # project6
 
+Top-left of Gedit, there's a dropdown. Thanks man.
+
+-------------------------------------------
+
 hello copy&paste, my old friend. Maybe I should write this.
 
 --------------------------------------------
