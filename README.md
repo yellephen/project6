@@ -1,5 +1,9 @@
 # project6
 
+Cross platform with a GUI and few dependencies. You are dreaming! So linux only. Linux GUI is bananas to me. Best dev may C++ an elf with the right libraries.<br><br>
+Python GUI? There are many python libraries available on pip that do gui. I am getting excited. I should learn about Exegol while I'm there. Python is bad for the environment. A text editor with a scripting language is hilarious. 
+
+--------------------------------------------
 It should be a linux executable.
 That is a text editor
 With a file tree
